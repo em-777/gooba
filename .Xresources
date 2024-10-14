@@ -1,0 +1,45 @@
+! special
+*.foreground:   #e4e4e4
+*.background:   #101015
+*.cursorColor:  #e4e4e4
+
+! black
+*.color0:       #1c1c1f
+*.color8:       #626272
+
+! red
+*.color1:       #af0000
+*.color9:       #af5f5f
+
+! green
+*.color2:       #2c5f6f
+*.color10:      #008899
+
+! yellow
+*.color3:       #af871c
+*.color11:      #cf8711
+
+! blue
+*.color4:       #1c6faa
+*.color12:      #5f87cf
+
+! magenta
+*.color5:       #5f1cbf
+*.color13:      #875ff7
+
+! cyan
+*.color6:       #005f87
+*.color14:      #0087bf
+
+! white
+*.color7:       #afafaf
+*.color15:      #e4e4e4
+
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.font:xft:Classic Console Neue:size=12
+URxvt.boldfont:xft:Classic Console Neue:size=12
+
+Xcursor.theme:Utsuho
+
+
