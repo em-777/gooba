@@ -1,0 +1,2 @@
+# gooba
+Another Xresources theme
